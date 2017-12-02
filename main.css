@@ -1,0 +1,35 @@
+body {
+    background-image: url(bg.png);
+}
+
+#revealall {}
+
+.maintext {
+    color: darkgreen;
+    font-size: 100px;
+    font-family: Lato;
+    text-align: center;
+    border-radius: 25px;
+    background: red;
+    padding: 20px; 
+    width: 1300px;
+    height: 150px;
+    top: 0;
+    /*position: sticky;*/
+}
+
+.facts {
+    background-color: rgb(120,10,55);
+    color: rgb(120,10,55);
+    border: 10px solid rgb(255,0,100);
+    border-radius: 20px;
+    font-family: sans-serif;
+}
+
+.facts:hover {
+    cursor: pointer;
+}
+
+.text {
+    font-family: sans-serif;
+}
